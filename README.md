@@ -9,4 +9,4 @@ angularjs文档：
 [http://damoqiongqiu.iteye.com/](http://damoqiongqiu.iteye.com/ "Markdown")
 
 读书：
-[http://book.douban.com/](http://book.douban.com/ "Markdown")
+[http://book.douban.com/](http://book.douban.com/ "Markdown")豆瓣上可查询书籍的评分和评价。
