@@ -1,6 +1,8 @@
 # blog
 angularjs文档：
 [http://docs.ngnice.com/guide](http://docs.ngnice.com/guide "Markdown")
+angular2:
+[https://angular.io/](https://angular.io/ "Markdown")
 
 社区：
 [http://segmentfault.com/](http://segmentfault.com/ "Markdown")
