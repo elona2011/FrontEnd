@@ -7,7 +7,7 @@ angular2:
 
 社区：
 [http://segmentfault.com/](http://segmentfault.com/ "Markdown")
-[http://div.io//](http://div.io/ "Markdown")貌似很牛比的社区，可是我也没有邀请码，大牛给个吧
+[http://div.io//](http://div.io/ "Markdown")很牛比的社区，可是我也没有邀请码，大牛给个吧
 
 博客：
 [http://damoqiongqiu.iteye.com/](http://damoqiongqiu.iteye.com/ "Markdown")
