@@ -9,3 +9,4 @@ css3 border-radius可以给DIV设置圆角
     </div>
 </div>
 controller as 生成多个实例对象，相互不影响，可嵌套
+service本身就是一个单例对象
