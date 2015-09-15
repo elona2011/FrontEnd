@@ -1,11 +1,13 @@
 # blog
 angularjs文档：
 [http://docs.ngnice.com/guide](http://docs.ngnice.com/guide "Markdown")
+
 angular2:
 [https://angular.io/](https://angular.io/ "Markdown")
 
 社区：
 [http://segmentfault.com/](http://segmentfault.com/ "Markdown")
+[http://div.io//](http://div.io/ "Markdown")貌似很牛比的社区，可是我也没有邀请码，大牛给个吧
 
 博客：
 [http://damoqiongqiu.iteye.com/](http://damoqiongqiu.iteye.com/ "Markdown")
