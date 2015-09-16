@@ -1,0 +1,2 @@
+国内源：
+npm config set registry http://registry.cnpmjs.org
