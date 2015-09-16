@@ -1,0 +1,2 @@
+给chrome添加启动参数：--allow-file-access-from-files
+chrome是不允许读取本地文件的，所以如果你要进行测试，可以在本地搭一个测试环境，可以使用wamp套件进行安装，或者换IE测试
