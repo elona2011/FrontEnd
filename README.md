@@ -12,6 +12,8 @@
 
 [http://segmentfault.com/](http://segmentfault.com/ "Markdown")
 
+[http://stackoverflow.com/](http://stackoverflow.com/ "Markdown")
+
 [http://div.io//](http://div.io/ "Markdown")很牛比的社区，可是我也没有邀请码，大牛给个吧
 
 ## 博客：
