@@ -1,6 +1,11 @@
 angularjs文档：
 [http://docs.ngnice.com/guide](http://docs.ngnice.com/guide "Markdown")
 
+To fetch one of the type definitions to the local directory, we use the tsd package manager.
+https://www.npmjs.com/package/tsd
+$ npm install -g tsd@^0.6.0 
+$ tsd install angular2 es6-promise rx rx-lite
+
 招聘：
 http://www.jobdeer.com/
 http://100offer.com/
