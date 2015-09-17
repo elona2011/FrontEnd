@@ -4,6 +4,8 @@
 
 [http://docs.ngnice.com/guide](http://docs.ngnice.com/guide "Markdown")
 
+[http://www.hubwiz.com/class/5599d367a164dd0d75929c76](http://www.hubwiz.com/class/5599d367a164dd0d75929c76 "Markdown")中文入门教程
+
 ## angular2:
 
 [https://angular.io/](https://angular.io/ "Markdown")
