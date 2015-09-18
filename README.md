@@ -10,6 +10,10 @@
 
 [https://angular.io/](https://angular.io/ "Markdown")
 
+## typescript:
+
+[http://www.typescriptlang.org/Handbook](http://www.typescriptlang.org/Handbook "Markdown")
+
 ## 社区：
 
 [http://segmentfault.com/](http://segmentfault.com/ "Markdown")国内程序问答社区
