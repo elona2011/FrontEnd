@@ -44,4 +44,4 @@
 
 ## 阅读:
 
-[http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html](名词王国中的死刑 "Markdown")
+[名词王国中的死刑](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html "Markdown")
