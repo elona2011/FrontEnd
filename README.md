@@ -18,7 +18,7 @@
 
 ## 社区：
 
-[https://www.quora.com/](https://www.quora.com/ "Markdown")国内程序问答社区
+[https://www.quora.com/](https://www.quora.com/ "Markdown")
 
 [http://segmentfault.com/](http://segmentfault.com/ "Markdown")国内程序问答社区
 
