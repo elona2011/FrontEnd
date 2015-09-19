@@ -45,3 +45,7 @@
 ## 阅读:
 
 [名词王国中的死刑](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html "Markdown")
+
+[Understanding node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb "Markdown")
+
+[Martin Fowlers关于依赖注入的大作](http://martinfowler.com/articles/injection.html "Markdown")
