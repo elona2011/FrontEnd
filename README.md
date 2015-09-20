@@ -49,3 +49,7 @@
 [Understanding node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb "Markdown")
 
 [Martin Fowlers关于依赖注入的大作](http://martinfowler.com/articles/injection.html "Markdown")
+
+## [Back-End:](https://github.com/elona2011/blog/tree/master/back-end "Markdown")
+
+[鸟哥的Linux](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php "Markdown")
