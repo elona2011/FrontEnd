@@ -4,7 +4,7 @@
 首先shadowsocks可以在PC上正常代理，设置步骤如下：
 1.在编辑服务器窗口设置代理端口8189（可为任意不常用端口）
 2.右键点击运行图标，选中允许来自局域网的连接
-3.编辑pac文件，由于iphone/ipad不支持socks代理，我们这里要自己编辑pac文件。新建proxy.pac文件，写入以下代码：function FindProxyForURL(url, host) { return "SOCKS 192.168.xxx.xxx:yyyy"; }
-192.168.xxx.xxx就是你电脑的ip,yyyy是你刚才配置shadowsocks客户端的那个重要端口。将proxy.pac放在你的网站目录中（www.url.com/proxy.pac）
+3.编辑pac文件，由于iphone/ipad不支持socks代理，我们这里要自己编辑pac文件。新建proxy.pac文件，写入以下代码：function FindProxyForURL(url, host) { return "SOCKS 192.168.xxx.xxx:8189"; }
+192.168.xxx.xxx就是你电脑的ip,8189是你刚才配置shadowsocks客户端的那个代理端口。将proxy.pac放在你的网站目录中（www.url.com/proxy.pac）
 4.手机端的代理：设置 -> 无线局域网-> 点击你连接的无线，在最下边的http代理，选择自动，输入你刚才放置pac文件的地址（http://www.url.com/proxy.pac）
 5.完成
