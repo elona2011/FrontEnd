@@ -1,0 +1,15 @@
+可以给DIV设置圆角
+css3 border-radius: 15px; 
+
+[ng-style]="{'background-image': 'url('+content.pictureIcon+')', 'background-repeat': 'no-repeat', 'background-size': '100% 100%'}"
+
+
+
+<div ng-controller="RecommendedListController as uuu">
+    <div ng-repeat="item in uuu.currentitem">{{item.name}}</div>
+    <div ng-controller="RecommendedListController as kkk">
+        <div ng-repeat="item in kkk.currentitem">{{item.name}}</div>
+        <input type="text" ng-model="kkk.currentitem[0].name" />
+        <input type="text" ng-model="uuu.currentitem[0].name" />
+    </div>
+</div>

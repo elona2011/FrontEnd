@@ -1,4 +1,0 @@
-DIV圆角
-border-radius: 15px;
-
-[ng-style]="{'background-image': 'url('+content.pictureIcon+')', 'background-repeat': 'no-repeat', 'background-size': '100% 100%'}"
