@@ -34,9 +34,15 @@
 
 [http://damoqiongqiu.iteye.com/](http://damoqiongqiu.iteye.com/ "Markdown")
 
-## 读书：
+[http://www.liaoxuefeng.com/](http://www.liaoxuefeng.com/ "Markdown")
+
+[http://yannhe.com/c3](http://yannhe.com/c3 "Markdown")
+
+## 书籍：
 
 [http://book.douban.com/](http://book.douban.com/ "Markdown")豆瓣上可查询书籍的评分和评价。
+
+[http://eloquentjavascript.net/]（http://eloquentjavascript.net/ "Markdown")
 
 ## node.js:
 
