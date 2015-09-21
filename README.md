@@ -42,7 +42,7 @@
 
 [http://book.douban.com/](http://book.douban.com/ "Markdown")豆瓣上可查询书籍的评分和评价。
 
-[http://eloquentjavascript.net/]（http://eloquentjavascript.net/ "Markdown")
+[http://eloquentjavascript.net/](http://eloquentjavascript.net/ "Markdown")
 
 ## node.js:
 
