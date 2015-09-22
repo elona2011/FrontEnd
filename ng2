@@ -1,0 +1,11 @@
+1.[router-link]="['/recommendedNavigation']" <=> bind-router-link="['/recommendedNavigation']" 
+
+2.中括号将HTML元素或组件的属性绑定到组件模型的某个表达式， 当表达式的值变化时，对应的DOM对象将自动得到更新
+
+3.[ng-style]="{'background-image': 'url(/assets/images/02Recommended/Entertainment.PNG)'}"
+自动填补ip及gulpfile中的PATH.dest.dev.all+url后的路径,即生成url(http://127.0.0.1:5555/assets/images/02Recommended/Entertainment.PNG)
+实际发现：以下生成的url相同，不知道为什么？
+[ng-style]="{'background-image': 'url(assets/images/02Recommended/Entertainment.PNG)'}"
+[ng-style]="{'background-image': 'url(/assets/images/02Recommended/Entertainment.PNG)'}"
+[ng-style]="{'background-image': 'url(./assets/images/02Recommended/Entertainment.PNG)'}"
+[ng-style]="{'background-image': 'url(../assets/images/02Recommended/Entertainment.PNG)'}"
