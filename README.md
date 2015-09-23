@@ -1,18 +1,16 @@
 # blog
 
-## js文档：
-
-[http://javascript.ruanyifeng.com/](http://javascript.ruanyifeng.com/ "Markdown")
-
-## angularjs文档：
-
-[http://docs.ngnice.com/guide](http://docs.ngnice.com/guide "Markdown")
-
 ## angular2:
 
 [https://angular.io/](https://angular.io/ "Markdown")
 
+[http://blog.thoughtram.io/](http://blog.thoughtram.io/ "Markdown")
+
 [http://www.hubwiz.com/class/5599d367a164dd0d75929c76](http://www.hubwiz.com/class/5599d367a164dd0d75929c76 "Markdown")中文入门教程
+
+## js文档：
+
+[http://javascript.ruanyifeng.com/](http://javascript.ruanyifeng.com/ "Markdown")
 
 ## typescript:
 
@@ -29,6 +27,10 @@
 [http://stackoverflow.com/](http://stackoverflow.com/ "Markdown")国外程序问答社区
 
 [http://div.io//](http://div.io/ "Markdown")很牛比的社区，可是我也没有邀请码，大牛给个吧
+
+## angularjs文档：
+
+[http://docs.ngnice.com/guide](http://docs.ngnice.com/guide "Markdown")
 
 ## 博客：
 
