@@ -2,3 +2,14 @@
 chrome是不允许读取本地文件的，所以如果你要进行测试，可以在本地搭一个测试环境，可以使用wamp套件进行安装，或者换IE测试
 
 --disable-web-security
+
+
+**操作**
+
+Sources:
+Ctrl+o：打开文件，弹出窗口后还可以输入":行数:列数"
+Alt+左键：展开所有子节点
+Alt+左键拖拽：选中多列
+
+运行代码片段：
+Sources-Snippets
