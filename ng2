@@ -9,3 +9,7 @@
 [ng-style]="{'background-image': 'url(/assets/images/02Recommended/Entertainment.PNG)'}"
 [ng-style]="{'background-image': 'url(./assets/images/02Recommended/Entertainment.PNG)'}"
 [ng-style]="{'background-image': 'url(../assets/images/02Recommended/Entertainment.PNG)'}"
+
+
+
+
