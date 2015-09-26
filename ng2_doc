@@ -17,3 +17,19 @@ export class Hello {
 }
 
 bootstrap(Hello);
+
+
+HTML元素中的[]绑定，将单向地自动更新绑定的属性
+例：<input [value]="name"> 当name变量变化时，input的value属性将自动更新
+若需要双向更新，则：<input [value]="name" (input)="name = $event.target.value">
+
+以下为另一种双向更新的写法，更简单
+import {FORM_DIRECTIVES} from "angular2/forms";
+@View({
+    template: `<input [(ng-model)]="name">
+		<p>Hello {{name}}</p>`,
+    directives: [CORE_DIRECTIVES, FORM_DIRECTIVES]
+})
+
+import
+CORE_DIRECTIVES:ng-if,ng-for等
