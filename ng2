@@ -10,6 +10,12 @@
 [ng-style]="{'background-image': 'url(./assets/images/02Recommended/Entertainment.PNG)'}"
 [ng-style]="{'background-image': 'url(../assets/images/02Recommended/Entertainment.PNG)'}"
 
+4.router在angular2中是独立模块，需要独立引用才能运行
+gulpfile:
+lib: ['node_modules/angular2/bundles/angular2.js','node_modules/angular2/bundles/router.dev.js']
+index.html:
+<script src="lib/router.dev.js"></script>
+
 
 
 
