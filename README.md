@@ -8,6 +8,8 @@
 
 [http://www.hubwiz.com/class/5599d367a164dd0d75929c76](http://www.hubwiz.com/class/5599d367a164dd0d75929c76 "Markdown")中文入门教程
 
+[http://angular-meteor.com/tutorials/angular2/bootstrapping](http://angular-meteor.com/tutorials/angular2/bootstrapping "Markdown")一个教程
+
 ## js文档：
 
 [http://javascript.ruanyifeng.com/](http://javascript.ruanyifeng.com/ "Markdown")
