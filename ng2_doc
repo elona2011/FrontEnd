@@ -33,3 +33,57 @@ import {FORM_DIRECTIVES} from "angular2/forms";
 
 import
 CORE_DIRECTIVES:ng-if,ng-for等
+
+
+
+*******
+FORM_DIRECTIVES:ng-model
+ROUTER_DIRECTIVES:<router-outlet>
+
+import { RouterOutlet } from 'angular2/router';
+import { RouterLink } from 'angular2/router';
+import { ROUTER_DIRECTIVES, RouteConfig } from 'angular2/router';
+import { ROUTER_BINDINGS, LocationStrategy, HashLocationStrategy } from 'angular2/router';
+
+
+properties: ['tabTitle: tab-title']申明变量tabTitle,将tab-title绑定到tabTitle变量上
+
+依赖注入的理解：注入可以理解为解决方法，依赖理解为需要的对象，模块的依赖会自动上向查询父模块及父父模块等的依赖，原文：
+
+http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html
+
+viewBindings: [bind(VideoService).toClass(SpecificVideoService)]  绑定的对象只能供本模块使用，不会影响到子模块
+bindings: [PlayerService],  绑定对象，且供子模块查询
+
+angular2由组件组成，每个组件都有自己的类、模板和样式。angular2通过不断地构造组件，搭建组件，复用组件来完成项目。
+
+<ng-content></ng-content>表明其它组件或内容插入当前组件的位置。例：<zippy><p>111</p></zippy>，其中<p>111</p>将插入zippy组件的template中的ng-
+
+content位置。
+
+@View
+styles: ['.tabs1 {background-color: green;}','{...}'], 声明的样式只在本组件中可用，默认，取决于encapsulation
+templateUrl: 'zippy.html', 声明外部样式文件
+此外还可以直接写在template中，多用于关联动态样式，如生成动态获取的背景图片
+encapsulation: ViewEncapsulation.None 无样式封装，样式位于<head>中，将全局可用
+        ViewEncapsulation.Emulated 样式模拟，样式位于<head>中，仅当前组件可用，默认
+        ViewEncapsulation.Native 当前组件可用，样式位于组件中，仅当前组件可用
+
+bootstrap(App, []); []中的绑定将全局可用
+
+bind(LocationStrategy).toClass(HashLocationStrategy) 使用hash url定位策略
+bind(LocationStrategy).toClass(PathLocationStrategy) 需在index.html的<head>中加入<base href="/">
+
+router设置方法
+1.import { ROUTER_BINDINGS, LocationStrategy, HashLocationStrategy, PathLocationStrategy } from 'angular2/router';
+    import {bind} from 'angular2/angular2';
+    import { ROUTER_DIRECTIVES, RouteConfig, RouterLink } from 'angular2/router';
+    bootstrap(App, [ROUTER-BINDINGS, bind(LocationStrategy).toClass(HashLocationStrategy)]);
+
+2.@RouteConfig([
+    {path:'/', component:Start, as: 'start'}
+])
+3.<router-outlet></router-outlet>
+directives: [ROUTER_DIRECTIVES, RouterLink]
+
+4.<a [router-link]="['./user']">link to user component</a>
