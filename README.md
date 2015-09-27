@@ -12,6 +12,8 @@
 
 [https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e](https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e "Markdown")
 
+[http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples](http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples "Markdown")
+
 ## js文档：
 
 [http://javascript.ruanyifeng.com/](http://javascript.ruanyifeng.com/ "Markdown")
