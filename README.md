@@ -10,6 +10,8 @@
 
 [http://angular-meteor.com/tutorials/angular2/bootstrapping](http://angular-meteor.com/tutorials/angular2/bootstrapping "Markdown")一个教程
 
+[https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e](https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e "Markdown")
+
 ## js文档：
 
 [http://javascript.ruanyifeng.com/](http://javascript.ruanyifeng.com/ "Markdown")
