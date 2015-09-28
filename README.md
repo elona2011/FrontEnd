@@ -14,6 +14,8 @@
 
 [http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples](http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples "Markdown")
 
+[https://angularclass.com/awesome-angular2/](https://angularclass.com/awesome-angular2/ "Markdown")
+
 ## js文档：
 
 [http://javascript.ruanyifeng.com/](http://javascript.ruanyifeng.com/ "Markdown")
