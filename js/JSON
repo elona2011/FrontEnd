@@ -1,0 +1,5 @@
+JSON.stringify方法用于将一个值转为字符串。该字符串符合JSON格式，并且可以被JSON.parse方法还原。JSON.stringify方法会忽略对象的不可遍历属性。
+该方法还可以接受一个数组参数，指定需要转成字符串的属性：
+JSON.stringify({ a:1, b:2 }, ['a'])  // '{"a":1}'
+
+JSON.parse方法用于将JSON字符串转化成对象。

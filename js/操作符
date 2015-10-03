@@ -1,0 +1,38 @@
+Number()
+parseInt()
+var a=10;
+a.toFixed(2) //"10.00"字符串
+
+String()能将任何类型的值转换成字符串
+var a=String(""); //转换了一个空字符串
+var b=new String(""); //创建了字符串对象
+Boolean(a) //false
+Boolean(b) //true
+
+Object
+hasOwnProperty()
+o.hasOwnProperty("name")
+
+o.__defineGetter__("name",function(){})
+设置后，使用o.name将调用function
+__defineSetter__()
+
+fun.apply(obj,args)等价于obj.fun(args)
+
+关系运算符的优先级高于逻辑运算符
+a==1 && b==2 等价于 (a==1)&&(b==2)
+
+
+类型检测
+typeof 返回字符串"function""object""number"等
+注意：typeof不是函数
+var message="aaaa";
+alert(typeof message);
+alert(typeof 95);
+typeof用于检测基本数据
+
+对于引用类型使用instanceof
+person instanceof Object
+
+
+

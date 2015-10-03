@@ -23,3 +23,29 @@ HTML 字符实体 http://www.w3school.com.cn/tags/html_ref_entities.html
     &blacktriangledown; Details
 </div>
 
+
+
+网址后加#q4，代表打开页面后移动到q4位置。
+
+顺序一定不能反：
+a:link{
+    color:gray;
+}
+a:visited{
+}
+a:hover{
+}
+a:active{
+}
+
+空格
+1. 使用输出html标签&nbsp;来解决
+ document.write("&nbsp;&nbsp;"+"1"+"&nbsp;&nbsp;&nbsp;&nbsp;"+"23");
+2. 使用CSS样式来解决
+document.write("<span style='white-space:pre;'>"+"  1        2    3    "+"</span>");
+ 在输出时添加“white-space:pre;”样式属性。这个样式表示"空白会被浏览器保留"
+
+乱码
+<head>
+ <meta charset＝"utf-8">
+</head>

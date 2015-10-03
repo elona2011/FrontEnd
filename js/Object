@@ -1,0 +1,2 @@
+Object.keys(myObject); //返回一个数组，包含所有可枚举属性，不查[[Prototype]]链
+Object.getOwnPropertyName(myObject); //返回一个数组，包含所有属性，不查[[Prototype]]链

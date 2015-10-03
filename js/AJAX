@@ -1,0 +1,31 @@
+XMLHttpRequest对象（XHR）
+var request = new XMLHttpRequest();
+
+考虑兼容性（IE5,6）的对象定义：
+var request;
+if(window.XMLHttpRequest){
+    request = new XMLHttpRequest();
+} else {
+    request = new ActiveXObject("Microsoft.XMLHTTP"); //IE5,6
+}
+
+var request = new XMLHttpRequest();
+request.open("GET","get.php",true);
+request.send();
+request.onreadystatechange = function(){
+if(request.readyState === 4 && request.status ===200){
+//做一些事情 request.responseText
+}}
+
+request.open("POST","create.php",true);
+request.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+request.send("name=王二狗&sex=男");
+
+responseText:获得字符串形式的响应数据
+responseXML:获得XML形式的响应数据
+status和statusText:以数字和文本形式返回HTTP状态码
+getAllResponseHeader():获取所有的响应报头
+getResponseHeader():查询响应中的某个字段的值
+
+readyState:0请求未初始化，open还没调用；1服务器连接已建立，open已调用；2请求已接收，接收到头信息；3请求处理中，接收到响应主体；4请求已完成，响应已就绪；
+

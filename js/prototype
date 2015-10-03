@@ -1,0 +1,16 @@
+使用‘=’赋值
+如果foo不直接存在于myObject而是存在于原型链上层时，myObject.foo="bar"会出现的三种情况：
+1如果在原型链上层存在名为foo的属性，且没被标记为只读，那会直接在myObject中添加一个名为foo的新属性，屏蔽原型链上层属性
+2如果1情况为只读，那么无法修改已有属性或创建新属性
+3如果原型链存在foo且为setter，那会调用这个setter，不做其它操作
+如果希望2，3情况也添加新屏蔽属性，那就不能使用=赋值，而使用：
+Object.defineProperty(myObject, "foo", {
+    value: "bar",
+    writable: true,
+    configurable: true,
+    enumerable: true
+});
+
+var a ={};
+Object.prototype.isPrototypeOf(a); //true
+Object.getPrototypeOf(a)===Object.prototype; //true
