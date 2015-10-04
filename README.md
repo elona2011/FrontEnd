@@ -2,9 +2,9 @@
 
 ## angular2:
 
-[https://angular.io/](https://angular.io/ "Markdown")
+[https://angular.io/](https://angular.io/ "Markdown")Angular2官方网站
 
-[http://blog.thoughtram.io/](http://blog.thoughtram.io/ "Markdown")
+[http://blog.thoughtram.io/](http://blog.thoughtram.io/ "Markdown")介绍Angular2原理的博客
 
 [http://www.hubwiz.com/class/5599d367a164dd0d75929c76](http://www.hubwiz.com/class/5599d367a164dd0d75929c76 "Markdown")中文入门教程
 
