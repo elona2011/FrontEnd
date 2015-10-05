@@ -1,0 +1,42 @@
+ 任何可以被递归定义的函数，都可以被改写为迭代式的程序。
+
+ var quickSort = {
+    _nums: [],
+    init: function(){
+        this._nums = arguments[0];
+    },
+    sort: function sort(nums, start, end){
+        var i = start, j = end;
+        while(i < j){
+            while(nums[j] >= nums[start] && j > start){
+                j--;
+            }
+            while(nums[i] <= nums[start] && i < end){
+                i++;
+            }
+            console.log(start);
+            console.log(end);
+            console.log(i);
+            console.log(j);
+            if(i < j){
+                nums[i] ^= nums[j];
+                nums[j] ^= nums[i];
+                nums[i] ^= nums[j];
+            }else if(j > start){
+                nums[start] ^= nums[j];
+                nums[j] ^= nums[start];
+                nums[start] ^= nums[j];
+            }
+            console.log(nums);
+        }
+        if(j + 1 < end){
+            sort(nums, j + 1, end);
+        }
+        if(start < j - 1){
+            sort(nums, start, j - 1);
+        }
+    }
+};
+var a = Object.create(quickSort);
+a.init([2,5,4,9,21,46,73,11,90,34,1,44,55]);
+a.sort(a._nums, 0, a._nums.length - 1);
