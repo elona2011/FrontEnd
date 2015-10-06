@@ -1,2 +1,30 @@
 vps网站默认目录：
 /home/wwwroot/default/
+
+
+
+启动脚本放置处：
+/etc/init.d/*
+vsftpd启动：
+/etc/init.d/vsftpd start
+vsftpd重启：
+/etc/init.d/vsftpd restart
+什么都不加，会告诉你有哪些参数：
+/etc/init.d/vsftpd
+
+vsftp默认可使用本地账号，在root下可使用useradd和passwd创建一个本地账号，连接vsftp。
+
+
+
+
+yum install nodejs 如果找不到nodejs，则 yum install epel-release安装epel源
+yum install npm
+git clone git@github.com:SekibOmazic/angular2-playground.git
+也可以用https协议：git clone https://github.com/SekibOmazic/angular2-playground.git
+克隆到本机后，就可以安装依赖包npm install，然后就可以启动web服务gulp play
+
+nodejs进程守护
+npm install -g pm2
+pm2 startup centos
+pm2 start ./node_modules/gulp/bin/gulp.js --name appname
+--name为pm2同时启用多个站点时，对各站点的重命名
