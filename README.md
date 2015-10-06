@@ -77,3 +77,11 @@
 ## [Back-End:](https://github.com/elona2011/blog/tree/master/back-end "Markdown")
 
 [鸟哥的Linux](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php "Markdown")
+
+## VPS:
+
+[https://bandwagonhost.com/clientarea.php?action=products](https://bandwagonhost.com/clientarea.php?action=products "Markdown")
+
+[https://www.digitalocean.com/](https://www.digitalocean.com/ "Markdown")
+
+[http://www.lnmp.org/](http://www.lnmp.org/ "Markdown")
