@@ -24,7 +24,9 @@ git clone git@github.com:SekibOmazic/angular2-playground.git
 克隆到本机后，就可以安装依赖包npm install，然后就可以启动web服务gulp play
 
 nodejs进程守护
+1.安装pm2
 npm install -g pm2
+2.开机自启动
 pm2 startup centos
+3.启动站点，--name为pm2同时启用多个站点时，对各站点的重命名
 pm2 start ./node_modules/gulp/bin/gulp.js --name appname
---name为pm2同时启用多个站点时，对各站点的重命名
