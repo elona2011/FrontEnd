@@ -16,7 +16,7 @@ vsftp默认可使用本地账号，在root下可使用useradd和passwd创建一�
 
 
 
-
+如何在VPS上布置nodejs和git项目
 yum install nodejs 如果找不到nodejs，则 yum install epel-release安装epel源
 yum install npm
 git clone git@github.com:SekibOmazic/angular2-playground.git
@@ -30,3 +30,8 @@ npm install -g pm2
 pm2 startup centos
 3.启动站点，--name为pm2同时启用多个站点时，对各站点的重命名
 pm2 start ./node_modules/gulp/bin/gulp.js --name appname
+
+
+df -h 显示挂载的所有文件系统的用量
+rm -rf 删除目录和文件及子目录和子文件(小心操作)
+mount /dev/cdrom /mnt 挂载光驱到/mnt
