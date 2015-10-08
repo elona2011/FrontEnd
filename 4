@@ -1,0 +1,6 @@
+<div (keyup) ="onKeyDown($event)" tabindex="0">
+
+onKeyDown(event): void {
+		this.lastKey = KeyEventsPlugin.getEventFullKey(event);
+		event.preventDefault();
+	}
