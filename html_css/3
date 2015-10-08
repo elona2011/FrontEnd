@@ -1,0 +1,14 @@
+内外DIV
+.btvinfobar_outside{
+	height: 34%;
+    width: 100%;
+    top: 66%;
+    position: absolute;
+}
+
+.btvinfobar_inside{
+    top: 30%;
+    width: 100%;
+    position: absolute;
+    left: 20%;
+}
