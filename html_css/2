@@ -1,0 +1,7 @@
+底部居中
+.btvinfobar{
+	height: 34%;
+    width: 100%;
+    top: 66%;
+    position: absolute;
+}
