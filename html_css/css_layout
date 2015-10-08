@@ -1,0 +1,40 @@
+内外div居中
+.btv_icon_text_outside{
+	height: 120px;
+	width: 150px;
+	float: left;
+}
+
+.btv_icon_text_inside{
+	left:30%;
+	top: 20%;
+	height: 90px;
+	width: 90px;
+	float: left;
+	position: relative;
+}
+
+
+底部居中
+.btvinfobar{
+	height: 34%;
+    width: 100%;
+    top: 66%;
+    position: absolute;
+}
+
+
+内外DIV
+.btvinfobar_outside{
+	height: 34%;
+    width: 100%;
+    top: 66%;
+    position: absolute;
+}
+
+.btvinfobar_inside{
+    top: 30%;
+    width: 100%;
+    position: absolute;
+    left: 20%;
+}
