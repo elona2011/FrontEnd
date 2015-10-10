@@ -8,15 +8,21 @@
 
 [http://blog.thoughtram.io/](http://blog.thoughtram.io/ "Markdown") 介绍Angular2原理的博客
 
-[http://www.hubwiz.com/class/5599d367a164dd0d75929c76](http://www.hubwiz.com/class/5599d367a164dd0d75929c76 "Markdown") 中文入门基础教程
-
 [http://angular-meteor.com/tutorials/angular2/bootstrapping](http://angular-meteor.com/tutorials/angular2/bootstrapping "Markdown") 一个教程
 
 [https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e](https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e "Markdown")
 
-[http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples](http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples "Markdown")
+[http://www.syntaxsuccess.com/articleList/angular](http://www.syntaxsuccess.com/articleList/angular "Markdown") angular2技术blog
 
 [https://angularclass.com/awesome-angular2/](https://angularclass.com/awesome-angular2/ "Markdown")
+
+[https://www.reddit.com/r/Angular2/](https://www.reddit.com/r/Angular2/ "Markdown")
+
+[http://www.hubwiz.com/class/5599d367a164dd0d75929c76](http://www.hubwiz.com/class/5599d367a164dd0d75929c76 "Markdown") 中文入门基础教程
+
+### lazy loading
+
+[http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/](http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/ "Markdown")
 
 ## js文档：
 
