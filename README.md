@@ -11,9 +11,13 @@
 * [https://angularclass.com/awesome-angular2/](https://angularclass.com/awesome-angular2/ "Markdown")
 * [https://www.reddit.com/r/Angular2/](https://www.reddit.com/r/Angular2/ "Markdown")
 * [http://www.hubwiz.com/class/5599d367a164dd0d75929c76](http://www.hubwiz.com/class/5599d367a164dd0d75929c76 "Markdown") 中文入门基础教程
+
 #### ABC
+
 * [http://html5hive.org/getting-started-with-angular-2/](http://html5hive.org/getting-started-with-angular-2/)
+
 #### lazy loading
+
 * [http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/](http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/ "Markdown")
 
 ## js文档：
