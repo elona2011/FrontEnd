@@ -1,24 +1,28 @@
 # blog
 
-## angular:
+## angular2:
 
 * [https://angular.io/](https://angular.io/ "Markdown") Angular2官方网站
 * [https://github.com/angular/angular/blob/master/CHANGELOG.md](https://github.com/angular/angular/blob/master/CHANGELOG.md "Markdown") Angular2 ChangeLog
-* [http://blog.thoughtram.io/](http://blog.thoughtram.io/ "Markdown") 介绍Angular2原理的博客
 * [http://angular-meteor.com/tutorials/angular2/bootstrapping](http://angular-meteor.com/tutorials/angular2/bootstrapping "Markdown") 一个教程
 * [https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e](https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e "Markdown")
-* [http://www.syntaxsuccess.com/articleList/angular](http://www.syntaxsuccess.com/articleList/angular "Markdown") angular2技术blog
 * [https://angularclass.com/awesome-angular2/](https://angularclass.com/awesome-angular2/ "Markdown")
 * [https://www.reddit.com/r/Angular2/](https://www.reddit.com/r/Angular2/ "Markdown")
-* [http://www.hubwiz.com/class/5599d367a164dd0d75929c76](http://www.hubwiz.com/class/5599d367a164dd0d75929c76 "Markdown") 中文入门基础教程
 
 ###### ABC
+
+* [http://blog.thoughtram.io/](http://blog.thoughtram.io/) 介绍Angular2原理的博客
+* [http://www.hubwiz.com/class/5599d367a164dd0d75929c76](http://www.hubwiz.com/class/5599d367a164dd0d75929c76 "Markdown") 中文入门基础教程
+* [http://www.syntaxsuccess.com/articleList/angular](http://www.syntaxsuccess.com/articleList/angular "Markdown") angular2技术blog
+
+###### Classes,Interfaces,Decorators,Modules
 
 * [http://html5hive.org/getting-started-with-angular-2/](http://html5hive.org/getting-started-with-angular-2/)
 
 ###### lazy loading
 
 * [http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/](http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/ "Markdown")
+* [http://www.syntaxsuccess.com/viewarticle/lazy-loading-in-angular-2.0](http://www.syntaxsuccess.com/viewarticle/lazy-loading-in-angular-2.0)
 
 ## js：
 
