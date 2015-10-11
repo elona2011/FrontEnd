@@ -1,6 +1,6 @@
 # blog
 
-## angular2:
+## angular:
 
 * [https://angular.io/](https://angular.io/ "Markdown") Angular2官方网站
 * [https://github.com/angular/angular/blob/master/CHANGELOG.md](https://github.com/angular/angular/blob/master/CHANGELOG.md "Markdown") Angular2 ChangeLog
@@ -12,22 +12,30 @@
 * [https://www.reddit.com/r/Angular2/](https://www.reddit.com/r/Angular2/ "Markdown")
 * [http://www.hubwiz.com/class/5599d367a164dd0d75929c76](http://www.hubwiz.com/class/5599d367a164dd0d75929c76 "Markdown") 中文入门基础教程
 
-##### ABC
+###### ABC
 
 * [http://html5hive.org/getting-started-with-angular-2/](http://html5hive.org/getting-started-with-angular-2/)
 
-##### lazy loading
+###### lazy loading
 
 * [http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/](http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/ "Markdown")
 
-## js文档：
+## js：
 
 * [http://javascript.ruanyifeng.com/](http://javascript.ruanyifeng.com/ "Markdown")
+
+## css:
+
+* [http://purecss.io/](http://purecss.io/ "Markdown")
 
 ## typescript:
 
 * [http://www.typescriptlang.org/Handbook](http://www.typescriptlang.org/Handbook "Markdown")
 * [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/ "Markdown")
+
+## node.js:
+
+* [http://www.nodebeginner.org/index-zh-cn.html](http://www.nodebeginner.org/index-zh-cn.html "Markdown") Node入门
 
 ## 社区：
 
@@ -51,14 +59,6 @@
 
 * [http://book.douban.com/](http://book.douban.com/ "Markdown") 豆瓣上可查询书籍的评分和评价。
 * [http://eloquentjavascript.net/](http://eloquentjavascript.net/ "Markdown")
-
-## node.js:
-
-* [http://www.nodebeginner.org/index-zh-cn.html](http://www.nodebeginner.org/index-zh-cn.html "Markdown") Node入门
-
-## css:
-
-* [http://purecss.io/](http://purecss.io/ "Markdown")
 
 ## 阅读:
 
