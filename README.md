@@ -19,6 +19,10 @@
 
 * [http://html5hive.org/getting-started-with-angular-2/](http://html5hive.org/getting-started-with-angular-2/)
 
+###### directives
+
+* [http://angular-tips.com/blog/2015/09/migrating-directives-to-angular-2/](http://angular-tips.com/blog/2015/09/migrating-directives-to-angular-2/)
+
 ###### lazy loading
 
 * [http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/](http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/ "Markdown")
