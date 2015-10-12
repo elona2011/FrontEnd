@@ -38,3 +38,19 @@
     position: absolute;
     left: 20%;
 }
+
+border
+border-style: solid;
+border-width: 3px;
+border-color: #313638;
+
+font字体大小及居中
+font: -webkit-control;
+font-size: x-large;
+text-align: center;
+line-height: 200%;
+
+文字单行省略
+overflow: hidden;
+white-space: nowrap;
+text-overflow: ellipsis;

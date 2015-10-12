@@ -22,6 +22,7 @@
 ###### directives
 
 * [http://angular-tips.com/blog/2015/09/migrating-directives-to-angular-2/](http://angular-tips.com/blog/2015/09/migrating-directives-to-angular-2/)
+* [https://github.com/angular/angular/blob/master/modules/angular2/docs/core/02_directives.md](https://github.com/angular/angular/blob/master/modules/angular2/docs/core/02_directives.md)
 
 ###### lazy loading
 
