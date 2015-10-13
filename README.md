@@ -8,21 +8,31 @@
 * [https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e](https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e "Markdown")
 * [https://angularclass.com/awesome-angular2/](https://angularclass.com/awesome-angular2/ "Markdown")
 * [https://www.reddit.com/r/Angular2/](https://www.reddit.com/r/Angular2/ "Markdown")
+* [https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/edit?pli=1](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/edit?pli=1)
 
 ###### ABC
 
 * [http://blog.thoughtram.io/](http://blog.thoughtram.io/) 介绍Angular2原理的博客
 * [http://www.hubwiz.com/class/5599d367a164dd0d75929c76](http://www.hubwiz.com/class/5599d367a164dd0d75929c76 "Markdown") 中文入门基础教程
 * [http://www.syntaxsuccess.com/articleList/angular](http://www.syntaxsuccess.com/articleList/angular "Markdown") angular2技术blog
+* [http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
 
 ###### Classes,Interfaces,Decorators,Modules
 
 * [http://html5hive.org/getting-started-with-angular-2/](http://html5hive.org/getting-started-with-angular-2/)
 
+###### Dependency Injection
+
+* [http://www.syntaxsuccess.com/viewarticle/dependency-injection-in-angular-2.0](http://www.syntaxsuccess.com/viewarticle/dependency-injection-in-angular-2.0)
+
 ###### directives
 
 * [http://angular-tips.com/blog/2015/09/migrating-directives-to-angular-2/](http://angular-tips.com/blog/2015/09/migrating-directives-to-angular-2/)
 * [https://github.com/angular/angular/blob/master/modules/angular2/docs/core/02_directives.md](https://github.com/angular/angular/blob/master/modules/angular2/docs/core/02_directives.md)
+
+###### authentication 
+
+* [https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
 
 ###### lazy loading
 
