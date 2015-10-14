@@ -1,5 +1,3 @@
-# blog
-
 ## angular2:
 
 * [https://angular.io/](https://angular.io/ "Markdown") Angular2官方网站
