@@ -35,3 +35,9 @@ pm2 start ./node_modules/gulp/bin/gulp.js --name appname
 df -h 显示挂载的所有文件系统的用量
 rm -rf 删除目录和文件及子目录和子文件(小心操作)
 mount /dev/cdrom /mnt 挂载光驱到/mnt
+
+关机
+shutdown -h 10 十分钟后关机
+shutdown -h 23:30 下一个23：30关机
+shutdown -h now 立即关机
+reboot 重启

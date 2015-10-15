@@ -9,3 +9,19 @@
 4.手机端的代理：设置 -> 无线局域网-> 点击你连接的无线，在最下边的http代理，选择自动，输入你刚才放置pac文件的地址（http://www.url.com/proxy.pac）
 5.完成
 1279
+
+
+
+Usage
+
+ssserver -p 443 -k password -m aes-256-cfb
+To run in the background:
+
+sudo ssserver -p 443 -k password -m aes-256-cfb --user nobody -d start
+To stop:
+
+sudo ssserver -d stop
+To check the log:
+
+sudo less /var/log/shadowsocks.log
+Check all the options via -h. You can also use a Configuration file instead.
