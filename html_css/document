@@ -1,0 +1,4 @@
+获得元素
+<div id="infobar" >
+var el = document.querySelector("#infobar");
+el.focus();
