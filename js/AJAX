@@ -29,3 +29,9 @@ getResponseHeader():查询响应中的某个字段的值
 
 readyState:0请求未初始化，open还没调用；1服务器连接已建立，open已调用；2请求已接收，接收到头信息；3请求处理中，接收到响应主体；4请求已完成，响应已就绪；
 
+
+使用XMLHttpRequest读取本地文件的方法：
+chrome的快捷方式里增加参数 --allow-file-access-from-files 
+本地文件可以读取了，但XMLHttpRequest的status会返回0，因为chrome认为不是HTTP请求，导致requirejs会报错
+可以使用Firefox解决该问题，XMLHttpRequest的status会返回200
+http://stackoverflow.com/questions/20041656/xmlhttprequest-cannot-load-file-cross-origin-requests-are-only-supported-for-ht
