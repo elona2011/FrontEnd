@@ -2,3 +2,6 @@
 <div id="infobar" >
 var el = document.querySelector("#infobar");
 el.focus();
+
+当前取得焦点的元素：
+document.activeElement
