@@ -1,4 +1,3 @@
-RFC2616详细HTTP规范
 
 请求报文：
 请求方法+请求URI+协议版本+可选的首部字段+内容实体
@@ -19,26 +18,35 @@ HTTP请求过程的7个步骤：
 6.Web服务器向浏览器发送数据
 7.Web服务器关闭TCP连接
 
-HTTP状态码由3位数字构成：
-1XX：信息类，表示收到Web浏览器请求，正在进一步处理中
-2XX：成功，表示用户请求被正确接收、理解和处理
-200 OK
-204 No Content
-206 Partial Content
+###### HTTP状态码由3位数字构成：
+* 1XX：信息类，表示收到Web浏览器请求，正在进一步处理中
+* 2XX：成功，表示用户请求被正确接收、理解和处理
+* 200 OK
+* 204 No Content
+* 206 Partial Content
 
-3XX：重定向，表示请求没成功，客户必须采取进一步的动作
-301 Moved Permanently
-302 Found
-303 See Other
-304 Not Modified
-307 Temporary Redirect
+###### 3XX：重定向，表示请求没成功，客户必须采取进一步的动作
+* 301 Moved Permanently
+* 302 Found
+* 303 See Other
+* 304 Not Modified
+* 307 Temporary Redirect
 
-4XX：客户端错误，表示客户端提交的请求有错误
-400 Bad Request
-401 Unauthorized
-403 Forbidden
-404 NOT Found，请求中引用的文档不存在
+###### 4XX：客户端错误，表示客户端提交的请求有错误
+* 400 Bad Request
+* 401 Unauthorized
+* 403 Forbidden
+* 404 NOT Found，请求中引用的文档不存在
 
-5XX：服务器错误，表示服务器不能处理请求
-500 Internal Server Error
-503 Service Unavailable
+###### 5XX：服务器错误，表示服务器不能处理请求
+* 500 Internal Server Error
+* 503 Service Unavailable
+
+方便的命令行测试小工具：
+[https://github.com/jkbrzt/httpie](https://github.com/jkbrzt/httpie)
+安装遇到的问题：
+我的系统版本CentOS Linux release 7.1.1503，安装后http命令运行报错，后来发现可能是版本低，安装了开发版本就可以了
+
+```bash
+sudo pip install --upgrade https://github.com/jkbrzt/httpie/tarball/master
+```
