@@ -1,4 +1,12 @@
-# My FE Repository
+## My FE Repository
+
+### 1 搭建开发环境
+
+#### 1.1 VPS
+
+#### 1.2 台式机+公网IP
+
+
 
 #### nodejs入门
 
@@ -44,3 +52,11 @@
 * [http://segmentfault.com/](http://segmentfault.com/ ) 国内程序问答社区
 * [http://stackoverflow.com/](http://stackoverflow.com/ ) 国外程序问答社区
 * [http://div.io//](http://div.io/ ) 很牛比的社区，可是我也没有邀请码，大牛给个吧
+
+#### 有趣
+
++ [http://www.emoji-cheat-sheet.com/](http://www.emoji-cheat-sheet.com/)
+
+## License
+
+MIT
