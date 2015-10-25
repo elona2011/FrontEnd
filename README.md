@@ -1,6 +1,12 @@
 # My FE Repository
 
-####[nodejs](https://github.com/elona2011/FrontEnd/tree/master/nodejs)
+#### nodejs入门
+
+[https://cnodejs.org/getstart](https://cnodejs.org/getstart)
+
+[https://github.com/alsotang/node-lessons](https://github.com/alsotang/node-lessons)
+
+[http://www.nodebeginner.org/index-zh-cn.html](http://www.nodebeginner.org/index-zh-cn.html ) Node入门
 
 ## Back-End
 
