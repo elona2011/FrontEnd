@@ -55,7 +55,7 @@
 
 #### 有趣
 
-+ [http://www.emoji-cheat-sheet.com/](http://www.emoji-cheat-sheet.com/)
++ [http://www.emoji-cheat-sheet.com/](http://www.emoji-cheat-sheet.com/) EMOJI CHEAT SHEET
 
 ## License
 
