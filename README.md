@@ -42,6 +42,7 @@
 
 ## 书籍
 
++ [https://github.com/justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 超多互联网书籍:sunny:
 * [http://book.douban.com/](http://book.douban.com/ ) 豆瓣上可查询书籍的评分和评价。
 * [http://eloquentjavascript.net/](http://eloquentjavascript.net/ )
 
