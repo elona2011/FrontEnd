@@ -1,4 +1,0 @@
-css文件里可以引用其它css文件:
-@import url(my.css);
-
-请详细观看盒子模型的立体图片，从第一层到第五层依次为：border、content+padding、background-image、background-color、margin。
