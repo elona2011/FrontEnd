@@ -46,5 +46,17 @@ myObject.hasOwnProperty("b"); //只查找对象直接包含的属性
 Object.keys(myObject); //返回一个数组，包含所有可枚举属性，不查[[Prototype]]链
 Object.getOwnPropertyName(myObject); //返回一个数组，包含所有属性，不查[[Prototype]]链
 
+class
+与ES5一样，实例的属性除非显式定义在其本身（即定义在this对象上），否则都是定义在原型上（即定义在class上）
+class Point {
+  constructor(x, y) {
+    this.x = x;
+    this.y = y;
+  }
+
+  toString() {
+    return '('+this.x+', '+this.y+')';
+  }
+}
 
 
