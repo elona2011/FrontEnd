@@ -54,6 +54,7 @@ overflow: hidden;
 white-space: nowrap;
 text-overflow: ellipsis;
 
+overflow: hidden; //隐藏超出范围
 box-shadow: 0px 0px 30px 6px #1a2123; //阴影
 background-color: rgba(26, 33, 34, 0.8);
 background-image: url("/assets/images/04LiveTV/arrow_down.png"); //url从./或../或/开始
