@@ -1,3 +1,21 @@
+样本代码：
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<div class="main">
+		<div class="loader"></div>
+	</div>
+	
+	<link rel="stylesheet" href="./test.css" type="text/css" />
+</body>
+</html>
+```
+
 HTML 颜色名 http://www.w3school.com.cn/tags/html_ref_colornames.asp
 
 HTML 字符实体 http://www.w3school.com.cn/tags/html_ref_entities.html
