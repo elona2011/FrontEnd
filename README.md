@@ -6,7 +6,16 @@
 
 #### 1.2 台式机+公网IP
 
+## js：
 
+* [http://javascript.ruanyifeng.com/](http://javascript.ruanyifeng.com/ )
+* [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
+
+## css:
+
+* [http://www.w3cplus.com/](http://www.w3cplus.com/)
+* [http://sass-lang.com/documentation/file.SASS_REFERENCE.html](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
+* [http://purecss.io/](http://purecss.io/)
 
 #### nodejs入门
 
