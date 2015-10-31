@@ -1,6 +1,6 @@
 样本代码：
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
