@@ -29,3 +29,11 @@ Check all the options via -h. You can also use a Configuration file instead.
 ** Client Side
 
 PAC里配置需要代理的网址，一般情况下，点击"从GFWList更新本地PAC"即可自动配置。仍然缺少的网址可以手动添加到PAC文件中。
+
+**** Linux下安装
+
+```bash
+sudo add-apt-repository ppa:hzwhuang/ss-qt5
+sudo apt-get update
+sudo apt-get install shadowsocks-qt5
+```
